@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CynH3x/iris-flower-classification/blob/main/iris_classification.ipynb)
+
+
+
+
 # 🌸 Iris Flower Classification using KNN
 
 This project classifies iris flowers into three species:
