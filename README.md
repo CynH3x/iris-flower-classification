@@ -34,4 +34,4 @@ K-Nearest Neighbors (KNN)
 - Matplotlib
 - Scikit-learn
 
-Created as part of a Machine Learning academic project.
+Created as part of my Machine Learning academic project.
